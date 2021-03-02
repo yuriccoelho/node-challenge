@@ -1,0 +1,13 @@
+{
+  "fullname": "John Appleseed",
+  "eid": "104",
+  "emailStudent": "john.appleseed@exemplo.com",
+  "emailPedagogicalResponsible": "dad.appleseed@exemplo.com",
+  "phonePedagogicalResponsible": "(11) 99991-1234",
+  "emailFinancialResponsible": "mom.appleseed@exemplo.com",
+  "phoneFinancialResponsible": "(11) 99992-1234",
+  "group": "",
+  "studyGroup": "",
+  "invisible": "yes",
+  "see_all": "no"
+}
